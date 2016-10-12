@@ -43,7 +43,7 @@ except IOError:
     pass
 
 setup(
-    name="docker-py",
+    name="docker-py-rs",
     version=version,
     description="Python client for Docker.",
     long_description=long_description,
